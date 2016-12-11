@@ -1,8 +1,9 @@
 # Streaming from APIOps events
 
 APIOps events streaming is handled with youtube at least for the beginning. In this setup we use iPad. You need: 
-- Live Now app
 - access to APIOps youtube (get username and password from Meetup organizers)
+- Live Now app
+![live now app](https://raw.githubusercontent.com/APIOps/streaming/master/livenow.jpg)
 
 ## Live Now app
 Live Now app is free and can be downloaded from appstore. In the app you need to configure broadcast key, which can be found from Youtube settings https://www.youtube.com/live_dashboard 
