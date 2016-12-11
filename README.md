@@ -10,7 +10,7 @@ APIOps events streaming is handled with youtube at least for the beginning. In t
 Live Now app is free and can be downloaded from appstore. In the app you need to configure broadcast key, which can be found from Youtube settings https://www.youtube.com/live_dashboard 
 - In youtube dashboard select "live streaming" and you'll find the encoder setup below the videoscreen. There is Stream name/key. 
 - In Live Now App configuration: Server URL: rtmp://a.rtmp.youtube.com/live2
-- In Live Now App configuration: Stream name/key: xxxxxxxxxxxxx (you'll need this). 
+- In Live Now App configuration: Stream name/key: xxxxxxxxxxxxx (from Youtube dashboard). 
 
 <img src="https://raw.githubusercontent.com/APIOps/streaming/master/livenow-conf.jpg" width="400px"/>
 
