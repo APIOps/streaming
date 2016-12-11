@@ -12,7 +12,7 @@ Live Now app is free and can be downloaded from appstore. In the app you need to
 - Stream name/key: xxxxxxxxxxxxx (you'll need this). 
 ![livenow conf](https://raw.githubusercontent.com/APIOps/streaming/master/livenow-conf.jpg)
 
-The server url should be there in the app already, but you need to insert the stream name/key. After that when you press record, the stream will appear at below given address and is automatically stored to youtube. 
+The server url should be there in the app already, but you need to insert the stream name/key. After that when you press record, the stream will appear at below given address and is automatically stored to youtube. You dont need to be logged in to Youtube to stream. Stream name/key is used to identify your device. 
 
 ## Youtube live 
 Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLswIwt6WA/live 
