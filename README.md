@@ -9,6 +9,7 @@ Live Now app is free and can be downloaded from appstore. In the app you need to
 - live streaming and you'll find the encoder setup below the videoscreen. 
 - Server URL: rtmp://a.rtmp.youtube.com/live2
 - Stream name/key: xxxxxxxxxxxxx (you'll need this). 
+![livenow conf](https://raw.githubusercontent.com/APIOps/streaming/master/livenow-conf.jpg)
 
 The server url should be there in the app already, but you need to insert the stream name/key. After that when you press record, the stream will appear at below given address and is automatically stored to youtube. 
 
