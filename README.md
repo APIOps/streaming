@@ -15,6 +15,6 @@ The server url should be there in the app already, but you need to insert the st
 ## Youtube live 
 Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLswIwt6WA/live 
 
-![APIOps youtube](/streaming/youtube.png )
+![APIOps youtube](https://github.com/APIOps/streaming/streaming/youtube.png)
 
 
