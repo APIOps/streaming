@@ -1,5 +1,9 @@
 # Streaming from APIOps events
 
+We can at least two ways to do streaming. First (onsite streaming) is ideal for event site streaming and the other for speakers participating only online. The latter gives us leverage on getting speakers from different locations around Finland for each meetup. 
+
+# 1. Onsite streaming
+
 APIOps events streaming is handled with youtube at least for the beginning. In this setup we use iPad. You need: 
 - access to APIOps youtube (get username and password from Meetup organizers)
 - Live Now app
@@ -21,4 +25,16 @@ Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLs
 
 <img src="https://raw.githubusercontent.com/APIOps/streaming/master/youtube.png" width="400px"/>
 
+
+# 2. Speaker streams from different location than meetup
+
+We use Google Hangouts, which plays nicely together with Youtube Live. 
+
+- You need to log in to APIOPs youtube account. 
+- Go to https://www.youtube.com/my_live_events?action_create_live_event=1
+- Give title (Your presentation topic would be logical (Vulcan))
+- Click button "Go live now". Confirm broadcasting now by selecting "ok"
+- Hangouts window opens (install needed plugins and extensions) and wait until you see "start broadcast" button at the bottom of the page. 
+- When ready start broadcasting by clicking "start broadcast". 
+- You can share your screen in Hangouts from left "screen share". NOTE! If you present powerpoint, PDF or something else, DON'T use fullscreen. It will not show live, instead your video is shared. Everything else works, but not fullscreen. 
 
