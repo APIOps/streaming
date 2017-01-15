@@ -18,7 +18,7 @@ Live Now app is free and can be downloaded from appstore. In the app you need to
 
 <img src="https://raw.githubusercontent.com/APIOps/streaming/master/livenow-conf.jpg" width="400px"/>
 
-The server url should be there in the app already, but you need to insert the stream name/key. After that when you press record, the stream will appear at below given address and is automatically stored to youtube. You dont need to be logged in to Youtube to stream. Stream name/key is used to identify your device. 
+The server url should be there in the app already, but you need to insert the stream name/key. After that when you press record, the stream will appear at below given address and is automatically stored to youtube. You don't need to be logged in to Youtube to stream. Stream name/key is used to identify your device. 
 
 ## Youtube live 
 Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLswIwt6WA/live 
@@ -30,12 +30,13 @@ Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLs
 
 We use Google Hangouts, which plays nicely together with Youtube Live. 
 
-- You need to log in to APIOPs youtube account. 
+- You need to **log in to APIOPs youtube account**. 
 - Go to https://www.youtube.com/my_live_events?action_create_live_event=1
-- Give title (Your presentation topic would be logical (Vulcan))
-- Click button "Go live now". Confirm broadcasting now by selecting "ok"
-- Hangouts window opens (install needed plugins and extensions) and wait until you see "start broadcast" button at the bottom of the page. 
-- When ready start broadcasting by clicking "start broadcast". 
+- **Give title** (Your presentation topic would be logical eg Vulcan)
+- Make sure event **type** is "Quick (using Google Hangouts On Air)" 
+- Click button **"Go live now"**. Confirm broadcasting now by selecting "ok"
+- Hangouts window opens (install needed plugins and extensions) and **wait until you see "start broadcast"** button at the bottom of the page. 
+- When ready start broadcasting by **clicking "start broadcast"**. 
 - You can share your screen in Hangouts from left "screen share". 
 
 ## Youtube live 
