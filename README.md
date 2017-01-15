@@ -1,6 +1,6 @@
 # Streaming from APIOps events
 
-We can at least two ways to do streaming. First (onsite streaming) is ideal for event site streaming and the other for speakers participating only online. The latter gives us leverage on getting speakers from different locations around Finland for each meetup. 
+We have at least two ways to do streaming. First (onsite streaming) is ideal for event site streaming and the other for speakers participating only online. The latter gives us leverage on getting speakers from different locations around Finland for each meetup. 
 
 # 1. Onsite streaming
 
