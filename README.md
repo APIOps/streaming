@@ -36,5 +36,13 @@ We use Google Hangouts, which plays nicely together with Youtube Live.
 - Click button "Go live now". Confirm broadcasting now by selecting "ok"
 - Hangouts window opens (install needed plugins and extensions) and wait until you see "start broadcast" button at the bottom of the page. 
 - When ready start broadcasting by clicking "start broadcast". 
-- You can share your screen in Hangouts from left "screen share". NOTE! If you present powerpoint, PDF or something else, DON'T use fullscreen. It will not show live, instead your video is shared. Everything else works, but not fullscreen. 
+- You can share your screen in Hangouts from left "screen share". 
+
+## Youtube live 
+Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLswIwt6WA/live 
+
+## Notes for speakers
+
+- If you present powerpoint, PDF or something else, DON'T use fullscreen. It will not show live, instead your video is shared. Everything else works, but not fullscreen. 
+- Also, Hangouts chat is not synced with Youtube live chat. So don't use Hangouts chat. 
 
