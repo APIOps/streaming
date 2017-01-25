@@ -52,5 +52,5 @@ Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLs
 - The following may override the last bullet on the previous *Notes for speakers*.
 - Youtube login most likely requires verification. Discuss the options with the @kyyberi.
 - If streaming from a laptop, you probably will need to install [Google Hangouts Voice and Video](https://www.google.com/tools/dlpage/hangoutplugin/).
-- Make sure you are creating a new event ("Events" on the left navigation), not Stream now, since the latter option will require additional installations [encoding software](https://support.google.com/youtube/answer/2907883?hl=en). Of course you can do this too, if you like.
+- Just make sure you are creating a new event ("Events" on the left navigation), not Stream now, since the latter option will require additional installations [encoding software](https://support.google.com/youtube/answer/2907883?hl=en). Of course you can do this too, if you like.
 - Note: There seems to be a couple of minutes delay between the presenter and Youtube stream.
