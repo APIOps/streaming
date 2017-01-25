@@ -30,7 +30,7 @@ Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLs
 
 We use Google Hangouts, which plays nicely together with Youtube Live. 
 
-- You need to **log in to APIOPs youtube account**. 
+- You need to **log in to APIOPs youtube account**.
 - Go to https://www.youtube.com/my_live_events?action_create_live_event=1
 - **Give title** (Your presentation topic would be logical eg Vulcan)
 - Make sure event **type** is "Quick (using Google Hangouts On Air)" 
@@ -47,3 +47,10 @@ Address for live broadcast is: https://www.youtube.com/channel/UC1pBHMSm5-gWjkLs
 - If you present powerpoint, PDF or something else, DON'T use fullscreen. It will not show live, instead your video is shared. Everything else works, but not fullscreen. 
 - Also, Hangouts chat is not synced with Youtube live chat. So don't use Hangouts chat. 
 
+## Notes based on test
+
+- The following may override the last bullet on the previous *Notes for speakers*.
+- Youtube login most likely requires verification. Discuss the options with the @kyyberi.
+- If streaming from a laptop, you probably will need to install [Google Hangouts Voice and Video](https://www.google.com/tools/dlpage/hangoutplugin/).
+- Make sure you are creating a new event ("Events" on the left navigation), not Stream now, since the latter option will require additional installations [encoding software](https://support.google.com/youtube/answer/2907883?hl=en). Of course you can do this too, if you like.
+- Note: There seems to be a couple of minutes delay between the presenter and Youtube stream.
